@@ -1,0 +1,80 @@
+body {
+  width: 500px;
+  height: 500px;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 15px;
+}
+
+img {
+  width: 49%;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+input[type=number], input[type=text] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+}
+
+input[type=checkbox] {
+  margin-left: 5px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #3b5998;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4c70ba;
+}
+
+button#copy {
+  background-color: #8b9dc3;
+}
+
+button#copy:hover {
+  background-color: #a3b1c6;
+}
+
+button#copy:active {
+  background-color: #4c70ba;
+}
+
+#message {
+  display: none; 
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #4c70ba;
+  color: #fff;
+  text-align: center;
+}
+
+#password-generator {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}

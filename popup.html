@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="popup.css">
+  </head>
+  <body>
+
+    <div id="password-generator">
+      <label>Password Length:<input type="number" id="length"></label>
+      <label>Include Lowercase Letters:<input type="checkbox" id="lowercase"></label>
+      <label>Include Uppercase Letters:<input type="checkbox" id="uppercase"></label>
+      <label>Include Numbers:<input type="checkbox" id="numbers"></label>
+      <label>Include Symbols:<input type="checkbox" id="symbols"></label>
+      <button id="save">Save My Preference</button>
+      <button id="generate">Generate Password</button>
+      <input type="text" id="password" readonly>
+      <button id="copy">Copy to Clipboard</button>
+    </div>
+	<div id="message"></div>
+
+    <div>
+      <a href="https://passwordchecker.online/" target="_blank">
+        <img src="images/banner1.jpg" alt="Check Password Strength">
+      </a>
+      <a href="https://passwordchecker.online/password-generator/" target="_blank">
+        <img src="images/banner2.jpg" alt="Generate Strong Password">
+      </a>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
