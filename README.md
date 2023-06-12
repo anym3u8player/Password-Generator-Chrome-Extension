@@ -17,7 +17,7 @@ Password Strength Checker: Check the strength of your generated password with ju
 Password Generator: Need a quick password? Generate one on the go via https://passwordchecker.online/password-generator/
 
 # Installation
-Download or clone this repository: git clone https://github.com/anym3u8player/Password-Generator-Extension.git
+Download or clone this repository: git clone https://github.com/anym3u8player/Password-Generator-Chrome-Extension.git
 
 Open Chrome browser and navigate to chrome://extensions
 
