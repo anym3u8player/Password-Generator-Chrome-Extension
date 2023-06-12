@@ -1,4 +1,4 @@
-# Password-Generator-Extension
+# Password-Generator-Chrome-Extension
 Password Generator Chrome Extension by https://passwordchecker.online/password-generator/
 
 Secure Password Generator Chrome Extension
