@@ -1,6 +1,8 @@
 # Password-Generator-Chrome-Extension
 Password Generator Chrome Extension by https://passwordchecker.online/password-generator/
 
+# Download the Chrome extension: https://chrome.google.com/webstore/detail/password-generator/fenbbikbbfmmeainfcaahinhdnfiknpc
+
 Secure Password Generator Chrome Extension
 
 The Secure Password Generator is a user-friendly and powerful Chrome extension designed to help you create robust, secure passwords within your browser. You can customize the length and type of characters in your password, tailoring it to fit any platform's requirements.
